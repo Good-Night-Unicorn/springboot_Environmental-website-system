@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/b5ed7e9c-870b-4af3-a4c1-93b038d300fa)## 基于Springboot+vue的环保网站的设计与实现(源代码+LW+数据库)
+## 基于Springboot+vue的环保网站的设计与实现(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
